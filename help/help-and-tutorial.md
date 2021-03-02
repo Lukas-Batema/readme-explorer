@@ -35,4 +35,8 @@ ___
 </details>
 =========================================
 
-3. *Create a PR on this repository so we can review it. Keep in mind, it must be clean, or it will be rejected! Thanks!*
+....................................................................................
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+3.  *Create a PR on this repository so we can review it. Keep in mind, it must be clean, or it will be rejected! Thanks!*
