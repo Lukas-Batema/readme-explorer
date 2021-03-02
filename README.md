@@ -13,7 +13,9 @@ ___
 </details>
 =========================================
 
-##### Table Of Contents
+#### Table Of Contents
+[A](https://github.com/Lukas-Batema/readme-explorer#a) … [B](https://github.com/Lukas-Batema/readme-explorer#b) …
+
 
 ##### A
 
