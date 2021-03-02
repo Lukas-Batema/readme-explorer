@@ -9,7 +9,7 @@ Please email me at [lukasbatema@gmail.com](mailto:lukasbatema@gmail.com) for hel
 
 ### ***TUTORIAL** 
 1) *Take a screenshot of your profile. It must be less than 500px by 500px to be courtious to other's when loading or refreshing the page! Then, upload it to the [SNAPSHOTS](https://github.com/Lukas-Batema/readme-explorer/blob/master/SNAPSHOTS) folder.*
-2) *Link your readme in the alphabetical order given on the list. The names in each section that begin with the same certian character must be in alphabetical order as well. **IT MUST BE A .PNG/.png ONLY!***
+2) *Link your readme in the alphabetical order given on the list. The names in each section that begin with the same certian character must be in alphabetical order as well. **IT MUST BE A .JP(E)G/.jp(e)g ONLY!***
 
 *Ex.*
 ```
@@ -19,7 +19,7 @@ User Name
 ___
 <details>
     <summary>SNAPSHOT</summary>
-    <img src="SNAPSHOTS/<Username>.png">
+    <img src="SNAPSHOTS/<Username>.jpg">
 </details>
 =========================================
 ```
@@ -31,7 +31,7 @@ Lukas-Batema
 ___
 <details>
     <summary>Preview</summary>
-    <img src="SNAPSHOTS/lukas-batema.png">
+    <img src="SNAPSHOTS/lukas-batema.jpg">
 </details>
 =========================================
 
