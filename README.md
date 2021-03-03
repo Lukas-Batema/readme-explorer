@@ -8,7 +8,7 @@ Lukas-Batema
 [Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
 ___
 <details>
-    <summary>Snapshot</summary>
+    <summary><em><b>SNAPSHOT</b></em></summary>
     <img src="/SNAPSHOTS/lukas-batema.jpg">
 </details>
 =========================================
