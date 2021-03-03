@@ -18,7 +18,7 @@ User Name
 [Name-of-user](linkOfReadmeOrProfileSite)
 ___
 <details>
-    <summary>SNAPSHOT</summary>
+    <summary>Snapshot</summary>
     <img src="SNAPSHOTS/<Username>.jpg">
 </details>
 =========================================
@@ -30,7 +30,7 @@ Lukas-Batema
 [Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
 ___
 <details>
-    <summary>Preview</summary>
+    <summary>Snapshot</summary>
     <img src="/SNAPSHOTS/lukas-batema.jpg">
 </details>
 =========================================
