@@ -1,3 +1,6 @@
+/README.md linguist-detectable
+/help/help-and-tutorial.md linguist-detectable
+/SNAPSHOTS/*.jpg linguist-detectable
 /README.md -linguist-documentation
 /help/help-and-tutorial.md -linguist-documentation
 /SNAPSHOTS/*.jpg -linguist-documentation
