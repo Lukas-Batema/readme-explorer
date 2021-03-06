@@ -1,6 +1,13 @@
+# linguist-detectable
 /README.md linguist-detectable
 /help/help-and-tutorial.md linguist-detectable
 /SNAPSHOTS/*.jpg linguist-detectable
+/.github/*.yml linguist-detectable
+/.github/workflows/*.yml linguist-detectable
+
+# -linguist-documentation
 /README.md -linguist-documentation
 /help/help-and-tutorial.md -linguist-documentation
 /SNAPSHOTS/*.jpg -linguist-documentation
+/.github/*.yml -linguist-documentation
+/.github/workflows/*.yml -linguist-documentation
